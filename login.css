@@ -1,0 +1,103 @@
+@charset "utf-8";
+input{
+    outline:none;                       /*取消输入框的高亮*/
+    border: 0;                          /*取消文本框的边框*/
+    }
+.bgstyle{
+    background: url(../img/login_bg.jpg) no-repeat;
+    width:595px; 
+    height:355px; 
+    margin:0 auto;
+    margin-top:170px;
+    font-size: 1.2em;
+    line-height:1.8;
+}
+.bgstyle{
+    width:595px;
+    height:355px;
+    margin:0 auto;
+    margin-top:170px;
+    font-size:1.2em;
+    line-height:1.8;
+}
+p.logo01{
+    position: relative;
+    left:15px;
+    top:20px;
+}
+.text01{
+    position:relative;
+    top:-10px;
+    left:35px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    width: 200px;
+    font-size: 50px;
+}
+.text02{
+    position: relative;
+    top:-50px;
+    left:51px;
+    width: 200px;
+    font-size: 18px;
+}
+.text03{
+    position: relative;
+    top:-240px;
+    left: 295px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.text04{
+    position: relative;
+    top:-260px;
+    left: 295px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.text05{
+    position: relative;
+    top:-50px;
+    left: 65px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 29px;
+}
+
+.captcha_input{
+    width: 60px;
+    height: 25px;
+}
+
+.usrname{
+    background: url(../img/login02.jpg) no-repeat;
+    width: 135px;
+    height: 22px;
+    margin-left: 0px;
+    top:20px;
+    padding-left: 30px;
+}
+.password{
+    background: url(../img/login03.jpg) no-repeat;
+    width: 135px;
+    height: 22px;
+    margin-left: 0px;
+    padding-left: 30px;
+}
+.submit{
+    position: relative;
+    width: 50px;
+    height: 40px;
+    top: -250px;
+    left: 340px;
+}
+
+.register1{
+    position: relative;
+    top:-260px;
+    left:380px;
+}
+.register2{
+    position: relative;
+    top:-270px;
+    left:435px;
+}
